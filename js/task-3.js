@@ -2,6 +2,7 @@
 const profile = {
   username: "Jacob",
   playTime: 300,
+  
 };
 
 profile.changeUsername = function(newName) {
